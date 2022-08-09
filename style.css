@@ -11,8 +11,35 @@ header{
     height: 80px;
 }
  
-main{
+main {
+    
+    padding-top: 30px;
     display: flex;
     flex-direction: column;
-    p
+    padding: 40px;
+    align-items: center;
+    gap: 30px;
+}
+.intro-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+.tiulo{
+    font-size: 32px;
+    font-weight: 900px;
+    color: black
+}
+.foto-bolo{
+    width: 380;
+}
+
+.ingredientes-container{
+    width: 600px;
+}
+
+.ingredientes-container ul{
+    padding-left: 32px;
 }
