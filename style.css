@@ -20,12 +20,13 @@ align-items: center;
  
 main {
     
-    padding-top: 30px;
+    Width: 30px;
     display: flex;
     flex-direction: column;
     padding: 40px;
     align-items: center;
-    gap: 30px;
+    gap: 24px;
+    margin-top: 24px;
 }
 .intro-container{
     display: flex;
